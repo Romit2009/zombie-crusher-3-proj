@@ -1,1 +1,2 @@
-# zombie-crusher-3-proj
+# zombie-crush-3
+project solution of c31
